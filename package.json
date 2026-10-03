@@ -1,0 +1,10 @@
+{
+  "name": "practica4-integracion-continua",
+  "version": "1.0.0",
+  "description": "Hola Mundo en JavaScript con integración continua (GitHub Actions + ntfy.sh)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT"
+}
